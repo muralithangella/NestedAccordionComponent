@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.accrodion-title {
+  margin: 1px;
+  height: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgb(144, 117, 82);
+}
